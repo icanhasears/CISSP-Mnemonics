@@ -7,7 +7,7 @@ SOC 2 " Trust is Two"
     - Uses trust services criteria
     - Deals with security controls
 
-SOC 3 Report = Redacted SOC2 Report
+SOC 3 = Redacted SOC2 Report
     - Usually availible to public on a compay's website
     - Trust services criteria
 
