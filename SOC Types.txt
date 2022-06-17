@@ -1,0 +1,40 @@
+SOC Types:
+
+SOC 1 "Finance First" 
+    - ICFR - internal controls over financial reporting
+
+SOC 2 " Trust is Two"
+    - Uses trust services criteria
+    - Deals with security controls
+
+SOC 3 Report = Redacted SOC2 Report
+    - Usually availible to public on a compay's website
+    - Trust services criteria
+
+SOC for Cybersecurity 
+    - SACPiP 
+        security
+        Availibility
+        Confidentiality
+        Process integrity 
+        Privacy
+    SOC2, SOC3, SOC for Cybersecurity
+
+
+SOC report Types
+
+- SOC type 1 = "1 has a point" 
+
+    - Single point in time
+    - Suitability of desing
+    - Fairly represented presentation of a system
+    - Due diligence is being practiced (research and preperation)
+
+- SOC type 2 = "more than oen point : period of time"
+
+    - Same as type 1 + operating effectiveness
+    - Shows that due care is being practiced (actions or decisions taken to prove due dilligence has been performed)
+
+- SOC type 3 report (doesnt exist) 
+
+
