@@ -1,0 +1,12 @@
+
+False rejection = FRR - Type 1 error (correct person was rejected )
+    - Right person, rejected (RR)
+    - Dry skin can cause fingerprint not to be read
+
+False acceptance rate = FAR - Type 2 error (wrong person was accepted)
+
+Crossover error rate = FAR and FRR cross  (equal)
+    - this is the goal
+
+    FRR = Type 1
+    FAR = type 2
