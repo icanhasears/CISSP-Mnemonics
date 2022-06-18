@@ -1,0 +1,11 @@
+SDLC
+
+IDIOD - Don’t be an IDIOD, learn SDLC
+
+Initiation, Design, Implement, Operations/Maintenance, Disposal
+
+SDLC – CBK
+
+I Reckon All Dem Dere Taters’re Really Delicious
+
+Initiation, Requirements, Architecture, Design, Develop, Testing, Release, Disposal
