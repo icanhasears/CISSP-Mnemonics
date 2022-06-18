@@ -1,6 +1,12 @@
 
 Mnemonics all
 
+Categories for controls:
+
+You have 3 cats so you want to call PTA (spelled peta) . Physical Technical Administrative
+
+Then ---- Preventative, Detective, Corrective, Detterent, Recovery, Compensating, Directive
+
 Hashing
 
 Has an HA or MD in the name
