@@ -13,11 +13,11 @@ IDEAL:
 - Learning
 
 SW-CMM
-- Initial
-- Repeatable 
-- Defined
-- Managed
-- Optimizing
+- Initial - no processes cant control caos
+- Repeatable - Reactive
+- Defined - Proactive
+- Managed - measured and controlled (quantitative)
+- Optimizing - hard for most orgs (process improvement)
 
 
 
