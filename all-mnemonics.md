@@ -1,6 +1,26 @@
 
 Mnemonics all
 
+The IDEAL model and SW-CMM momorization:
+
+I...I, Dr. Ed am lo(w)
+
+IDEAL:
+-Initiating
+- Diagnosing
+- Establishing
+- Acting
+- Learning
+
+SW-CMM
+- Initial
+- Repeatable 
+- Defined
+- Managed
+- Optimizing
+
+
+
 Categories for controls:
 
 You have 3 cats so you want to call PTA (spelled peta) . Physical Technical Administrative
