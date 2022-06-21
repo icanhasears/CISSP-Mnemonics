@@ -127,6 +127,22 @@ DRP -returning the IT infrastructure to operation
 *focus on technical aspects
 Part of BCP policy
 
+Data Lifecycle:
+1. Create
+2. Store
+3. Use
+4. Share
+5. Archive
+6. Destroy
+
+Information lifecycle
+1. Creation
+2. Classification - just remember that after creating data we must classify data
+3. Storage
+4. Usage
+5. Archive
+6. Destruction 
+
 Due Care - A vendor engaging in a reasonable and expected manner for the circumstance
 Due Diligence - Demonstrates due care
 Domain 3: Security Engineering
