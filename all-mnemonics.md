@@ -1,6 +1,15 @@
 
 Mnemonics all
 
+NIST SP800-37
+People can see I am always magnificant
+1. Prepare
+2. Categoraize information systems
+3. Select security controls
+4. Implement security controls
+5. Assess controls
+6. Authorize the system
+7. Monitor security controls
 
 Risk Management
 SLE = AV * EF
