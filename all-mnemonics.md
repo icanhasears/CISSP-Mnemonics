@@ -2,7 +2,7 @@
 Mnemonics all
 
 NIST SP800-37
-People can see I am always magnificant
+People can see I am always monitor
 1. Prepare
 2. Categoraize information systems
 3. Select security controls
