@@ -25,6 +25,9 @@ ALE = ARO * SLE
 Total Risk
 Threat * vulnerabilities * asset value = total risk
 
+Risk 
+Risk = Threat * Vulnerability
+
 🍺 = 😍 (get it?)
 Ale makes arousal
 Annual Loss Expectancy = Rate of Occurrence - Single Loss Expectancy
