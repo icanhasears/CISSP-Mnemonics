@@ -143,6 +143,10 @@ Information lifecycle
 5. Archive
 6. Destruction 
 
+Data Classification
+
+
+
 Due Care - A vendor engaging in a reasonable and expected manner for the circumstance
 Due Diligence - Demonstrates due care
 Domain 3: Security Engineering
@@ -329,3 +333,11 @@ Class C – Current – Electricity
 Class D – Things that Detonate or Dent – Metals
 
 Class K - Kitchen
+
+
+Databasis
+ACID
+Atomicity = Transactions are all or nothing
+Consistency = Only valid data is saved
+Isolation = Transactions do not affect each other
+Durability = Written data will not be lost
